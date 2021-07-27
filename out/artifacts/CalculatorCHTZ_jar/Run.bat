@@ -1,0 +1,1 @@
+java -jar CalculatorCHTZ.jar
